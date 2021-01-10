@@ -1,5 +1,5 @@
  // Put API KEY
-var API_KEY = "pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw";
+var API_KEY = "PUT YOUR API KEY HERE";
 
 
 function createMap(earthquakes) {
